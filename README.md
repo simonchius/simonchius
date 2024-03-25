@@ -6,7 +6,7 @@ Technical Lead in Android Development | Expert in Modern Android Architecture & 
 
 With 9 years of extensive experience in Android development, I have honed my skills in various aspects of the Android ecosystem. My expertise lies in modern Android architecture, including **Compose**, **LiveData**, **Flow**, **Hilt**, **Room DB**, **NavGraph**, and **MVVM**. 
 
-I have a strong background in writing **Unit Tests** and working with **Recomposition** to ensure robust and reliable code. I am proficient in using **Version Control** systems and have experience with **Convention plugin** for maintaining code consistency across the team.
+I have a strong background in writing **Unit Tests** and working with **Recomposition** to ensure robust and reliable code. I am proficient in using **Version Control** systems and have experience with **Convention plugin** for maintaining code consistency across the module.
 
 My skills also include working with **Coroutines** for managing background tasks, **Paging** for efficient data loading, and **Retrofit** for network operations. 
 
