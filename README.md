@@ -40,6 +40,10 @@ Here are several insights I’ve garnered throughout my professional journey.
  
  ## 📈 Stats 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikAdaptavant&theme=buefy&hide_border=true" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonchius&theme=buefy&hide_border=true" />
 
+<a href="https://github.com/simonchius">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonchius&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
 
+</p>
