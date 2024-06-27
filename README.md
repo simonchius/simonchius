@@ -14,7 +14,7 @@ I am passionate about leading teams to deliver high-quality, user-centric Androi
 
 Feel free to connect with me for opportunities, collaborations, or discussions around Android development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-simon-raj-tarcius-18b91790/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-simon-raj-t-18b91790/) 
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@simonmisles) 
 [![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://github.com/simonchius) 
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/3801137/simon-chius)
